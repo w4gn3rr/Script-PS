@@ -1,0 +1,8 @@
+test-openport é seu script importado
+
+- Executar script no "PowerShell ISE"
+- Executar a linha abaixo preenchendo com IP e Portas necessárias:
+
+Test-OpenPort 10.121.208.201,10.121.208.202 -Port 31100,31600,31019,31069,31114,31037,31089,20,21,22
+
+https://sid-500.com/2018/02/02/powershell-test-open-tcp-ports-with-test-openport-multiple-hosts-multiple-port-numbers/
