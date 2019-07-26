@@ -1,4 +1,4 @@
-﻿#Criado em 29/10/2018
+﻿# Criado em 29/10/2018
 # Edilmar Canuto
 # Faz o logoff em sessões remotas do windows.
 
